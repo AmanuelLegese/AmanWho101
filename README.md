@@ -74,7 +74,7 @@
 <a href="https://linkedin.com/in/amanuel-legese-b4101891">
   <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/linkedin.svg" align="right" alt="Amanuel Legese | LinkedIn" width="21px">
 </a>
-<a>
-  <img src="https://raw.githubusercontent.com/gayanvoice/top-github-users-action/master/public/images/icons/facebook.svg" align="right" alt="Amanuel Legese | LinkedIn" width="21px"/>
+<a href="https://linkedin.com/in/amanuel-legese-b4101891">
+  <img src="https://raw.githubusercontent.com/gayanvoice/top-github-users-action/master/public/images/icons/facebook.svg" align="right" alt="Amanuel Legese | Facebook" width="21px"/>
 </a>
 
