@@ -54,12 +54,14 @@
     alt="dagem720"
   />
 </p>
-<summary>GitHub Achievements</summary>
 
-- ### GitHub Achievements:
+
+### GitHub Achievements:
   <p align="center">
-   <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=AmanWho101&row=1&theme=discord"></a>
+   <a href="#"><img src="https://github-profile-trophy.vercel.app/?user=AmanWho101&row=1&theme=discord"></a>
   </p>
+
+### GitHub Achievements:
 <p>
   <img
     align="center"
