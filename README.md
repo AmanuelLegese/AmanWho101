@@ -66,14 +66,12 @@
 [![Amanuel GitHub stats](https://github-readme-stats.vercel.app/api?username=AmanWho101&show_icons=true&theme=tokyonight)](https://github.com/AmanWho101)
 
 [website]: [http://abogidatech.com](http://abogidatech.com/)
+[linkedin]: [https://linkedin.com/in/amanuel-legese-b4101891](https://linkedin.com/in/amanuel-legese-b4101891)
 
-<a href="[https://twitter.com/anuraghazru](http://abogidatech.com/)">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+<a href="http://abogidatech.com/">
+  <img align="right" alt="Amanuel Legese | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
-LinkedIn [linkedin]: [https://linkedin.com/in/amanuel-legese-b4101891](https://linkedin.com/in/amanuel-legese-b4101891)
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+<a href="https://linkedin.com/in/amanuel-legese-b4101891">
+  <img align="right" alt="Amanuel Legese | Linked In" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/linkedIn.svg" />
 </a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
+
