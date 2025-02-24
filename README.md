@@ -59,7 +59,7 @@
   <img
     align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=AmanWho101&theme=dark&background=000000&"
-    alt="dagem720"
+    alt="Amanuel Legese"
   />
 </p>
 
