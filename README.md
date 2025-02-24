@@ -70,9 +70,6 @@
   />
 </p>
 
-[![Amanuel GitHub stats](https://github-readme-stats.vercel.app/api?username=AmanWho101&show_icons=true&theme=tokyonight)](https://github.com/AmanWho101)
-
-
 <a href="http://abogidatech.com/">
   <img align="right" alt="Amanuel Legese | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
