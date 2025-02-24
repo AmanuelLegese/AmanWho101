@@ -33,7 +33,7 @@
 ### Connect with me
 
 <a href="https://www.linkedin.com/in/amanuel-legese-b4101891/">
-  <img align="left" alt="Amanuel LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  Amanuel Legese
 </a>
 
 <br>
