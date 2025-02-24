@@ -56,19 +56,6 @@
 </p>
 
 
-### GitHub Achievements:
-  <p align="center">
-   <a href="#"><img src="https://github-profile-trophy.vercel.app/?user=AmanWho101&row=1&theme=discord"></a>
-  </p>
-
-### GitHub Achievements:
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=AmanWho101&theme=dark&background=000000&"
-    alt="Amanuel Legese"
-  />
-</p>
 
 <a href="http://abogidatech.com/">
   <img align="right" alt="Amanuel Legese | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
