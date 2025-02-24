@@ -72,8 +72,6 @@
 
 [![Amanuel GitHub stats](https://github-readme-stats.vercel.app/api?username=AmanWho101&show_icons=true&theme=tokyonight)](https://github.com/AmanWho101)
 
-[website]: [http://abogidatech.com](http://abogidatech.com/)
-[linkedin]: [https://linkedin.com/in/amanuel-legese-b4101891](https://linkedin.com/in/amanuel-legese-b4101891)
 
 <a href="http://abogidatech.com/">
   <img align="right" alt="Amanuel Legese | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
