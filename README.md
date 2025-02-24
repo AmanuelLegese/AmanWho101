@@ -63,7 +63,13 @@
   />
 </p>
 
-[![Amanuel GitHub stats](https://github-readme-stats.vercel.app/api?username=AmanWho101&show_icons=true&theme=tokyonight)](https://github.com/AmanWho101/github-readme-stats)
+[![Amanuel GitHub stats](https://github-readme-stats.vercel.app/api?username=AmanWho101&show_icons=true&theme=tokyonight)](https://github.com/AmanWho101)
 
-[website]: http://abogidatech.com/
-[linkedin]: https://linkedin.com/in/amanuel-legese-b4101891
+Website [website]: http://abogidatech.com/
+LinkedIn [linkedin]: https://linkedin.com/in/amanuel-legese-b4101891
+<a href="https://twitter.com/anuraghazru">
+  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a href="https://codesandbox.io/u/anuraghazra">
+  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+</a>
