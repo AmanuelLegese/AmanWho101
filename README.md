@@ -72,6 +72,6 @@
   <img align="right" alt="Amanuel Legese | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 <a href="https://linkedin.com/in/amanuel-legese-b4101891">
-  <img align="right" alt="Amanuel Legese | Linked In" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/linkedin.svg" />
+  <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/linkedin.svg" height="48" width="48" alt="Amanuel Legese | LinkedIn" style="max-width: 100%;">
 </a>
 
