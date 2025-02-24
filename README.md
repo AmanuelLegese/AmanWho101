@@ -31,7 +31,7 @@
 </p>
 
 ### Connect with me
-
+[Linked In]
 <a href="https://www.linkedin.com/in/amanuel-legese-b4101891/">
   Amanuel Legese
 </a>
