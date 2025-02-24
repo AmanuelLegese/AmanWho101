@@ -30,7 +30,7 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-### Connect with me
+
 ## Linked In
 <a href="https://www.linkedin.com/in/amanuel-legese-b4101891/">
   Amanuel Legese
