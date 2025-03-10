@@ -2,10 +2,7 @@
 **AmanWho101/AmanWho101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### Hi there, I'm Amanuel <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-
-## and I'm a Software Engineer 
+### Hi there, I'm Amanuel <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> and I'm a Software Engineer 
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m a passionate software developer
@@ -67,3 +64,4 @@
   <img src="https://raw.githubusercontent.com/gayanvoice/top-github-users-action/master/public/images/icons/facebook.svg" align="right" alt="Amanuel Legese | Facebook" width="21px"/>
 </a>
 
+[![Banner](https://codecrafters.io/images/byox-banner.gif)](https://AmanWgo101@github.com)
