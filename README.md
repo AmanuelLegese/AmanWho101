@@ -64,4 +64,4 @@
   <img src="https://raw.githubusercontent.com/gayanvoice/top-github-users-action/master/public/images/icons/facebook.svg" align="right" alt="Amanuel Legese | Facebook" width="21px"/>
 </a>
 
-[![Banner](https://codecrafters.io/images/byox-banner.gif)](https://AmanWgo101@github.com)
+[![Banner](https://codecrafters.io/images/byox-banner.gif)]([https://AmanWgo101@github.com](https://github.com/codecrafters-io/build-your-own-x))
