@@ -52,7 +52,7 @@
   />
 </p>
 
-<br/>
+##
 
 <a href="http://abogidatech.com/">
   <img align="right" alt="Amanuel Legese | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
