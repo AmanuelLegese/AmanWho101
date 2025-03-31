@@ -29,7 +29,7 @@
 
 
 <br><br>
-My GitHub usually contains useful projects using Laravel, Spring Boot, React, Dot Net, ASP for offensive security!
+My GitHub usually contains useful projects using Laravel, Spring Boot, React, Dot Net, ASP and offensive security Tools!
 
 
 ## 🌐 Socials:
