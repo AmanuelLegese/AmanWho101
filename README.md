@@ -34,16 +34,8 @@ My GitHub usually contains useful projects using Laravel, Spring Boot, React, Do
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Shellroot101) 
-
-<a href="http://abogidatech.com/">
-  <img align="right" alt="Amanuel Legese | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://linkedin.com/in/amanuel-legese-b4101891">
-  <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/linkedin.svg" align="right" alt="Amanuel Legese | LinkedIn" width="21px">
-</a>
-<a href="https://linkedin.com/in/amanuel-legese-b4101891">
-  <img src="https://raw.githubusercontent.com/gayanvoice/top-github-users-action/master/public/images/icons/facebook.svg" align="right" alt="Amanuel Legese | Facebook" width="21px"/>
-</a>
+[![Portfolio](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://abogidatech.com/)
+[![LinkedIn](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://linkedin.com/in/amanuel-legese-b4101891)
 
 
 # 📊 GitHub Stats:
