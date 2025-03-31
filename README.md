@@ -34,6 +34,17 @@
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Shellroot101) 
 
+<a href="http://abogidatech.com/">
+  <img align="right" alt="Amanuel Legese | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a href="https://linkedin.com/in/amanuel-legese-b4101891">
+  <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/linkedin.svg" align="right" alt="Amanuel Legese | LinkedIn" width="21px">
+</a>
+<a href="https://linkedin.com/in/amanuel-legese-b4101891">
+  <img src="https://raw.githubusercontent.com/gayanvoice/top-github-users-action/master/public/images/icons/facebook.svg" align="right" alt="Amanuel Legese | Facebook" width="21px"/>
+</a>
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AmanWho101&theme=prussian&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AmanWho101&theme=prussian&hide_border=true)<br/>
@@ -56,14 +67,5 @@
 
 ##
 
-<a href="http://abogidatech.com/">
-  <img align="right" alt="Amanuel Legese | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://linkedin.com/in/amanuel-legese-b4101891">
-  <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/linkedin.svg" align="right" alt="Amanuel Legese | LinkedIn" width="21px">
-</a>
-<a href="https://linkedin.com/in/amanuel-legese-b4101891">
-  <img src="https://raw.githubusercontent.com/gayanvoice/top-github-users-action/master/public/images/icons/facebook.svg" align="right" alt="Amanuel Legese | Facebook" width="21px"/>
-</a>
-<br><br><br><br>
+
 [![Banner](https://codecrafters.io/images/byox-banner.gif)]([[https://AmanWgo101@github.com](https://github.com/codecrafters-io/build-your-own-x)](https://github.com/codecrafters-io/build-your-own-x))
