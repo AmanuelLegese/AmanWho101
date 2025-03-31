@@ -28,7 +28,8 @@
 </p>
 
 
-<br><br>My GitHub usually contains useful projects for offensive security practitioners!
+<br><br>
+My GitHub usually contains useful projects using Laravel, Spring Boot, React, Dot Net, ASP for offensive security!
 
 
 ## 🌐 Socials:
@@ -64,8 +65,5 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <br><br>
-
-##
-
 
 [![Banner](https://codecrafters.io/images/byox-banner.gif)]([[https://AmanWgo101@github.com](https://github.com/codecrafters-io/build-your-own-x)](https://github.com/codecrafters-io/build-your-own-x))
