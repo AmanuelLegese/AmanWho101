@@ -2,6 +2,7 @@
 **AmanuelLegese/AmanuelLegese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+
 ### Hi there, I'm Amanuel <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> and I'm a Software Engineer 
 
 - 🌱 I’m currently learning everything 🤣
